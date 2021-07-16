@@ -258,22 +258,27 @@ button:hover {
   }
   .artists-container a {
     font-size: 1.4rem;
+    letter-spacing: -0.125px;
   }
   .artists-container .gogh {
     width: 57%;
   }
-
   .artist {
     width: 62%;
   }
   .artist img {
     width: 68%;
     height: 100%;
+    margin-top: 6.75%;
+  }
+  .gogh img {
+    width: 67%;
+    height: 100%;
   }
   .bio {
     font-size: 0.9rem;
     line-height: 1.2;
-    margin-top: 2%;
+    margin-top: 2.25%;
   }
 }
 
