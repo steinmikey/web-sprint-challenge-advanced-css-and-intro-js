@@ -319,7 +319,7 @@ function lotsOfArt(array) {
   }
   return manyPaintings;
 }
-console.log("task 7", "//lotsOfArt(artists)");
+console.log("task 7", lotsOfArt(artists));
 
 /* ***** END OF TASKS ***** */
 
